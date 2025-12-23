@@ -1,0 +1,7 @@
+{
+  "name": "Cinematic Pro Portfolio",
+  "description": "A high-end, immersive 3D portfolio generator for professionals, pre-populated with digital marketing expertise.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
